@@ -2,4 +2,4 @@ module github.com/simple_CRUD_API_With_Golang
 
 go 1.21.0
 
-require github.com/gorilla/mux v1.8.1 // indirect
+require github.com/gorilla/mux v1.8.1
